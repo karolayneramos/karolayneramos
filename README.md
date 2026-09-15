@@ -1,108 +1,28 @@
-Olá! Eu sou Karolayne Ramos
+<h1 align="center">Olá 👋, sou Karolayne Silva Ramos</h1>
+<h3 align="center">Estudante de Sistemas de Informação | QA, Teste de Software, Desenvolvimento e Suporte Técnico
 
-Estudante de Sistemas de Informação, interessada em QA, testes de software, desenvolvimento e suporte técnico.
+- 🔭 Atualmente estou trabalhando em **Projeto de Testes de Software**
 
+- 🌱 Atualmente estou aprendendo **TypeScript, Angular, SQL, Postman e QA**
 
-Sou estudante de Sistemas de Informação e estou construindo minha trajetória profissional na área de Tecnologia da Informação.
+- 👯 Busco colaborar em **Projetos de QA, Desenvolvimento Web e Tecnologia**
 
-Tenho interesse em entender como os sistemas funcionam, identificar problemas e buscar soluções. Atualmente, venho estudando principalmente desenvolvimento web, qualidade de software e metodologias ágeis.
+- 🤝 Preciso de ajuda com **QA e Testes de Software**
 
-Também tenho experiência prática com suporte técnico, realizando atendimentos e solucionando problemas de hardware e software.
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://meu-portifolio-amber-tau.vercel.app/](https://meu-portifolio-amber-tau.vercel.app/)
 
-Meu objetivo é conquistar uma oportunidade de estágio em TI, colocar em prática o que venho aprendendo e continuar evoluindo profissionalmente.
+- 💬 Pergunte-me sobre **QA, Testes de Software, HTML, CSS, JavaScript e Suporte Técnico**
 
+- 📫 Como me contatar: **karolayneramos.dev@gmail.com**
 
-Tecnologias e conhecimentos
+- 📄 Saiba mais sobre minhas experiências [www.linkedin.com/in/karolayne-silva-ramos-dev](www.linkedin.com/in/karolayne-silva-ramos-dev)
 
- Desenvolvimento
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karolayne silva ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolayne silva ramos" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/41343-540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="41343-540" height="30" width="40" /></a>
+</p>
 
-* HTML5
-* CSS3
-* JavaScript
-* C
-
- Banco de Dados
-
-* SQL
-* MySQL
-
-QA e Testes
-
-* Fundamentos de QA
-* Testes funcionais
-* Casos de teste
-* Identificação e documentação de bugs
-
-Ferramentas
-
-* GitHub
-* Visual Studio Code
-* Jira
-
-Metodologias
-
-* Scrum
-* Kanban
-* Metodologias Ágeis
-
-
- Atualmente estudando
-
-* TypeScript
-* Angular
-* Testes de Software
-* QA
-* Git e GitHub
-* Desenvolvimento Web
-
-
-
-Projetos
-
- Spotify Clone
-
-Projeto desenvolvido para praticar desenvolvimento Front-End utilizando HTML e CSS.
-
-[Ver projeto](https://github.com/karolayneramos/spotify)
-
-### Meu Portfólio
-
-Projeto desenvolvido para apresentar meus conhecimentos, projetos e minha evolução na área de tecnologia.
-
-[Ver projeto](https://github.com/karolayneramos/Meu-portifolio)
-
----
-
- Experiência prática
-
-Também realizo trabalhos como freelancer na área de TI, prestando suporte técnico remoto e presencial.
-
-Entre as atividades realizadas estão:
-
-* Instalação e configuração do Windows
-* Instalação e atualização de softwares
-* Diagnóstico de problemas de hardware e software
-* Manutenção preventiva e corretiva de computadores
-* Suporte e orientação aos usuários
-* Resolução de problemas técnicos
-
-
-
-Objetivo profissional
-
-Busco uma oportunidade de **estágio em Tecnologia da Informação**, principalmente nas áreas de:
-
-* QA e Testes de Software
-* Desenvolvimento
-* Suporte Técnico
-
-Estou sempre buscando aprender coisas novas e transformar o conhecimento adquirido nos estudos em prática por meio de projetos e experiências.
-
-
-
-Vamos nos conectar?
-
-[LinkedIn](https://www.linkedin.com/)
-
-[Meu Portfólio](https://meu-portifolio-amber-tau.vercel.app/)
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
