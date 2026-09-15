@@ -1,21 +1,19 @@
-<h1 align="center">Olá 👋, sou Karolayne Silva Ramos</h1>
-<h3 align="center">Estudante de Sistemas de Informação | QA, Teste de Software, Desenvolvimento e Suporte Técnico
+<h1 align="center">Olá, sou Karolayne Silva Ramos</h1>
+<h3 align="center">Estudante de Sistemas de Informação | QA | Teste de Software | Desenvolvimento de Software 
 
-- 🔭 Atualmente estou trabalhando em **Projeto de Testes de Software**
+ Atualmente estou trabalhando em **Projeto de Testes de Software**
 
-- 🌱 Atualmente estou aprendendo **TypeScript, Angular, SQL, Postman e QA**
+ Atualmente estou aprendendo **TypeScript, Angular, SQL, Postman e QA**
 
-- 👯 Busco colaborar em **Projetos de QA, Desenvolvimento Web e Tecnologia**
+Busco colaborar em **Projetos de QA, Desenvolvimento Web e Tecnologia**
 
-- 🤝 Preciso de ajuda com **QA e Testes de Software**
+Todos os meus projetos estão disponíveis em [https://meu-portifolio-amber-tau.vercel.app/](https://meu-portifolio-amber-tau.vercel.app/)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://meu-portifolio-amber-tau.vercel.app/](https://meu-portifolio-amber-tau.vercel.app/)
+Possuo conhecimentos sobre: **QA, Testes de Software, HTML, CSS, JavaScript e Suporte Técnico**
 
-- 💬 Pergunte-me sobre **QA, Testes de Software, HTML, CSS, JavaScript e Suporte Técnico**
+Emaill: **karolayneramos.dev@gmail.com**
 
-- 📫 Como me contatar: **karolayneramos.dev@gmail.com**
-
-- 📄 Saiba mais sobre minhas experiências [www.linkedin.com/in/karolayne-silva-ramos-dev](www.linkedin.com/in/karolayne-silva-ramos-dev)
+📄 Saiba mais sobre minhas experiências [www.linkedin.com/in/karolayne-silva-ramos-dev](www.linkedin.com/in/karolayne-silva-ramos-dev)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
