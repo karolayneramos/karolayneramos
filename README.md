@@ -72,23 +72,13 @@ Atualmente estou utilizando projetos pessoais para colocar esses conhecimentos e
 
 </p>
 
-### QA e Gestão
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postman,jira" />
-
-</p>
-
----
 
 ## 📂 Projetos
 
 Alguns dos projetos que desenvolvi ou estou utilizando para praticar meus conhecimentos:
 
 - 🧪 **Estoquei Online** — Projeto utilizado para prática de testes de software, criação de casos de teste e identificação de bugs.
-- 🌱 **Kitanda** — Projeto de desenvolvimento web utilizando HTML e CSS.
-- 📚 **Gerador de Plano de Estudos Diário** — Projeto acadêmico desenvolvido com foco em organização dos estudos.
 
 👉 Confira meus projetos no meu portfólio:
 
