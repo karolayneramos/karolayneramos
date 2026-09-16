@@ -1,26 +1,107 @@
-<h1 align="center">Olá, sou Karolayne Silva Ramos</h1>
-<h3 align="center">Estudante de Sistemas de Informação | QA | Teste de Software | Desenvolvimento de Software 
+<div align="center">
 
- Atualmente estou trabalhando em **Projeto de Testes de Software**
+# Olá, eu sou Karolayne Silva Ramos 👋
 
- Atualmente estou aprendendo **TypeScript, Angular, SQL, Postman e QA**
+### Estudante de Sistemas de Informação | QA | Testes de Software | Desenvolvimento Web
 
-Busco colaborar em **Projetos de QA, Desenvolvimento Web e Tecnologia**
-
-Todos os meus projetos estão disponíveis em [https://meu-portifolio-amber-tau.vercel.app/](https://meu-portifolio-amber-tau.vercel.app/)
-
-Possuo conhecimentos sobre: **QA, Testes de Software, HTML, CSS, JavaScript e Suporte Técnico**
-
-Emaill: **karolayneramos.dev@gmail.com**
-
-📄 Saiba mais sobre minhas experiências [www.linkedin.com/in/karolayne-silva-ramos-dev](www.linkedin.com/in/karolayne-silva-ramos-dev)
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karolayne silva ramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolayne silva ramos" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/41343-540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="41343-540" height="30" width="40" /></a>
+<p>
+Estou construindo minha carreira na área de tecnologia, com foco em
+<strong>Qualidade de Software, Testes e Desenvolvimento Web</strong>.
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p>
+Atualmente estou estudando <strong>TypeScript, Angular, SQL, Postman e QA</strong>
+e praticando testes funcionais em projetos pessoais.
+</p>
 
+<p>
+Busco oportunidades para aprender, colaborar em projetos e desenvolver
+minhas habilidades na área de tecnologia.
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudante de Sistemas de Informação
+- 🧪 Foco em QA e Testes de Software
+- 💻 Interesse em Desenvolvimento Web
+- 🔎 Praticando criação e execução de casos de teste
+- 🐞 Estudando identificação e documentação de bugs
+- 📚 Atualmente aprendendo TypeScript, Angular, SQL e Postman
+- 🚀 Buscando minha primeira oportunidade profissional na área de QA
+
+---
+
+## 🧪 QA e Testes
+
+Tenho estudado e praticado:
+
+- Testes funcionais
+- Testes de regressão
+- Casos e cenários de teste
+- Identificação e documentação de bugs
+- Testes exploratórios
+- Análise de requisitos
+- Jira
+- Scrum e Kanban
+- Postman
+- SQL
+
+Atualmente estou utilizando projetos pessoais para colocar esses conhecimentos em prática e desenvolver uma visão mais próxima da rotina de um QA.
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+### Linguagens
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c" />
+
+</p>
+
+### Frameworks e ferramentas
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=angular,mysql,git,github,vscode" />
+
+</p>
+
+### QA e Gestão
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postman,jira" />
+
+</p>
+
+---
+
+## 📂 Projetos
+
+Alguns dos projetos que desenvolvi ou estou utilizando para praticar meus conhecimentos:
+
+- 🧪 **Estoquei Online** — Projeto utilizado para prática de testes de software, criação de casos de teste e identificação de bugs.
+- 🌱 **Kitanda** — Projeto de desenvolvimento web utilizando HTML e CSS.
+- 📚 **Gerador de Plano de Estudos Diário** — Projeto acadêmico desenvolvido com foco em organização dos estudos.
+
+👉 Confira meus projetos no meu portfólio:
+
+**[Meu Portfólio](https://meu-portifolio-amber-tau.vercel.app/)**
+
+---
+
+## 📊 Atualmente estudando
+
+```text
+QA e Testes de Software     ███████████████░░░░░
+HTML / CSS / JavaScript     ███████████████░░░░░
+TypeScript                  ████████░░░░░░░░░░░░
+Angular                     ██████░░░░░░░░░░░░░░
+SQL                         ████████░░░░░░░░░░░░
+Postman                     ███████░░░░░░░░░░░░░
